@@ -14,7 +14,7 @@ S3 wire compatible distributed object storage, written in Rust on `io_uring`, fo
 [![Status](https://img.shields.io/badge/status-early%20development-yellow.svg)](#project-status)
 [![Web](https://img.shields.io/badge/web-theopenlake.com-1d4ed8.svg)](https://theopenlake.com)
 
-[Website](https://theopenlake.com)&nbsp;·&nbsp;[Comparison](https://theopenlake.com/compare.html)&nbsp;·&nbsp;[Architecture](#architecture)&nbsp;·&nbsp;[Quickstart](#quickstart)
+[Discord](https://discord.gg/TNXqVSnP6x)&nbsp;·&nbsp;[Website](https://theopenlake.com)&nbsp;·&nbsp;[Comparison](https://theopenlake.com/compare.html)&nbsp;·&nbsp;[Architecture](#architecture)&nbsp;·&nbsp;[Quickstart](#quickstart)
 
 </div>
 
