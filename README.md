@@ -1,24 +1,35 @@
+
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="https://theopenlake.com/assets/wordmark.png">
-  <img alt="OpenLake" src="https://theopenlake.com/assets/wordmark-on-light.png" width="340">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/openlake-project/openlake/refs/heads/main/assets/openlake-wordmark-dark-8192.png">
+  <img alt="OpenLake" src="https://raw.githubusercontent.com/openlake-project/openlake/refs/heads/main/assets/openlake-wordmark-light-8192.png" width=55%>
 </picture>
 
-### The shortest path from NVMe to GPU memory.
+
+<h3 align="center">
+The shortest path from NVMe to GPU memory.
+</h3>
 
 S3 wire compatible distributed object storage, written in Rust on `io_uring`, for the workloads that move terabytes between storage and GPUs.
+
+
+[Discord](https://discord.gg/TNXqVSnP6x)&nbsp;·&nbsp;[Website](https://theopenlake.com)&nbsp;·&nbsp;[Comparison](https://theopenlake.com/compare.html)&nbsp;·&nbsp;[Architecture](#architecture)&nbsp;·&nbsp;[Quickstart](#quickstart)
+
+
 
 [![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 [![Rust](https://img.shields.io/badge/rust-1.91%2B-orange.svg)](rust-toolchain.toml)
 [![Status](https://img.shields.io/badge/status-early%20development-yellow.svg)](#project-status)
 [![Web](https://img.shields.io/badge/web-theopenlake.com-1d4ed8.svg)](https://theopenlake.com)
 
-[Discord](https://discord.gg/TNXqVSnP6x)&nbsp;·&nbsp;[Website](https://theopenlake.com)&nbsp;·&nbsp;[Comparison](https://theopenlake.com/compare.html)&nbsp;·&nbsp;[Architecture](#architecture)&nbsp;·&nbsp;[Quickstart](#quickstart)
+
 
 </div>
 
+
 ---
+
 
 ## What is OpenLake?
 
